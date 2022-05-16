@@ -1,0 +1,7 @@
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\Day6_Basic_Programs\bin\Debug\Day6_Basic_Programs.exe.config
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\Day6_Basic_Programs\bin\Debug\Day6_Basic_Programs.exe
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\Day6_Basic_Programs\bin\Debug\Day6_Basic_Programs.pdb
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\Day6_Basic_Programs\obj\Debug\Day6_Basic_Programs.csproj.AssemblyReference.cache
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\Day6_Basic_Programs\obj\Debug\Day6_Basic_Programs.csproj.CoreCompileInputs.cache
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\Day6_Basic_Programs\obj\Debug\Day6_Basic_Programs.exe
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\Day6_Basic_Programs\obj\Debug\Day6_Basic_Programs.pdb

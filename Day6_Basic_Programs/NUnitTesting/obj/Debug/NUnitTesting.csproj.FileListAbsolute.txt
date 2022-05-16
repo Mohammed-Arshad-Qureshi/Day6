@@ -1,0 +1,7 @@
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\NUnitTesting\bin\Debug\NUnitTesting.exe.config
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\NUnitTesting\bin\Debug\NUnitTesting.exe
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\NUnitTesting\bin\Debug\NUnitTesting.pdb
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\NUnitTesting\obj\Debug\NUnitTesting.csproj.AssemblyReference.cache
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\NUnitTesting\obj\Debug\NUnitTesting.csproj.CoreCompileInputs.cache
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\NUnitTesting\obj\Debug\NUnitTesting.exe
+E:\Visual_Studio\Day-6\Day6_Basic_Programs\NUnitTesting\obj\Debug\NUnitTesting.pdb
